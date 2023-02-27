@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.dfa32ce0.css",
+    "main.css": "./static/css/main.360ee917.css",
     "main.js": "./static/js/main.86b52422.js",
     "static/media/banner.jpg": "./static/media/banner.55c085b0194991c84293.jpg",
     "static/media/gridview_image1.png": "./static/media/gridview_image1.8cf3148e3bef45048936.png",
@@ -45,11 +45,11 @@
     "static/media/checkout_bag5.png": "./static/media/checkout_bag5.bbd98ce6557d9875a875.png",
     "static/media/TrendingProducts-dd.png": "./static/media/TrendingProducts-dd.503648cc0b2fbf754fbd.png",
     "index.html": "./index.html",
-    "main.dfa32ce0.css.map": "./static/css/main.dfa32ce0.css.map",
+    "main.360ee917.css.map": "./static/css/main.360ee917.css.map",
     "main.86b52422.js.map": "./static/js/main.86b52422.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfa32ce0.css",
+    "static/css/main.360ee917.css",
     "static/js/main.86b52422.js"
   ]
 }
