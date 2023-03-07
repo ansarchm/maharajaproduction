@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.7064f766.css",
-    "main.js": "./static/js/main.f6d6a494.js",
+    "main.js": "./static/js/main.9f7b5c75.js",
     "static/media/banner.jpg": "./static/media/banner.55c085b0194991c84293.jpg",
     "static/media/gridview_image1.png": "./static/media/gridview_image1.8cf3148e3bef45048936.png",
     "static/media/a1.png": "./static/media/a1.804efb6f45805c6c6660.png",
@@ -46,10 +46,10 @@
     "static/media/TrendingProducts-dd.png": "./static/media/TrendingProducts-dd.503648cc0b2fbf754fbd.png",
     "index.html": "./index.html",
     "main.7064f766.css.map": "./static/css/main.7064f766.css.map",
-    "main.f6d6a494.js.map": "./static/js/main.f6d6a494.js.map"
+    "main.9f7b5c75.js.map": "./static/js/main.9f7b5c75.js.map"
   },
   "entrypoints": [
     "static/css/main.7064f766.css",
-    "static/js/main.f6d6a494.js"
+    "static/js/main.9f7b5c75.js"
   ]
 }
